@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-docs",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple starter to get up and documenting quickly with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Zach Harris <hi@zachbharris.com>",
   "dependencies": {
     "@mdx-js/mdx": "^1.1.4",
     "@mdx-js/react": "^1.1.4",
@@ -19,7 +19,11 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "react-spring": "^8.0.27",
+    "reakit": "^1.0.0-beta.4",
+    "styled-components": "^4.3.2",
+    "styled-theming": "^2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
